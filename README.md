@@ -1,11 +1,5 @@
 
-Dưới đây là phiên bản README hoàn chỉnh, đã được cập nhật theo mã trên và giữ lại các hình ảnh (được biểu diễn dưới dạng placeholder Markdown) từ phiên bản cũ:
 
----
-
-# CovidAnalysis-R-Spark
-
-=======
 # CovidAnalysis-R-Spark - DNU
 
 ---
